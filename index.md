@@ -34,8 +34,7 @@
 
 
 ### 矿井人员定位考勤管理系统
-此项目中主要人员历史轨迹查询，人员出入井情况查询，人员考勤统计报表等功能实现，主要涉及技术为Spring,Struts2,Hiberante,WebService,iReport等技术。
-
+此项目中主要人员历史轨迹查询，人员出入井情况查询，人员考勤统计报表等功能实现，定位设备。项目核心框架为Spring,Struts2,Hiberante，数据库SQLServer，WebService框架是CXF,前端使用jQuery及共通插件,报表使用iReport等技术。
 
 
 
