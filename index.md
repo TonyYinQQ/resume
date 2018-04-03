@@ -40,7 +40,7 @@
 此项目中主要参与人员历史轨迹查询，人员出入井情况查询，人员考勤统计报表，设备状态监控等功能实现。项目核心框架为Spring,Struts2,Hiberante，数据库SQLServer，WebService框架是CXF,前端使用jQuery及共通插件,报表使用iReport等技术。
 
 ### 蒲白矿物局生产技术管理系统
-此项目中主要参与矿井储量信息、采掘队、采掘技术及装备信息管理。项目核心框架为Spring,Struts2,Hiberante，数据库SQLServer,前端使用jQuery及共通插件,通过POI实现项目信息批量导入和下载。
+此项目中主要参与矿井储量信息、采掘队、采掘技术及装备信息管理。项目核心框架为Spring,Struts2,Hiberante，数据库SQLServer,前端使用jQuery及共通插件,通过POI实现项目信息批量导入和下载，ExtJS前台框架。
  
 ### 其他项目
 除了参与以上项目之外，我参与研发的项目还有，综采工作面监控系统，矿井水处理系统，快速装车、计量监控系统等煤炭综合自动化系统集成项目和办公OA项目，接触了一些C++/QT/AndroidSDK/Linux/JNI技术。
