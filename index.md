@@ -32,8 +32,11 @@
   
 ## 北京富力通能源软件有限公司 （ 2012年2月 ~ 2016年4月 ）
 
-### MNO项目 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+### 矿井人员定位考勤管理系统
+此项目中主要人员历史轨迹查询，人员出入井情况查询，人员考勤统计报表等功能实现，主要涉及技术为Spring,Struts2,Hiberante,WebService,iReport等技术。
+
+
 
 
 ### PQR项目 
@@ -47,7 +50,7 @@
 
 # 技能清单
 - 后台语言：JAVA/C/C++
-- 开源框架：Spring/Spring MVC/Struts2/Hiberante/Mybatis
+- 开源框架：Spring/Spring MVC/Struts2/Hiberante/Mybatis/POI/
 - 数据库相关：MySQL/Oracle/MongoDB/Redis/Memcache
 - 分布式&集群：Dubbo/Zookeeper/Niginx/Spring Boot
 - 前端语言：HTML/CSS/JavaScript
