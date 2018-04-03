@@ -1,61 +1,76 @@
-
 # 联系方式
-
 - 手机：15998607302
 - Email：lntu_tony@yeah.net 
-- QQ/微信号：104159
-
-
+- 微信号：dltont
 
 # 个人信息
-
- - 冷熊/男/1990 
- - 本科/北极大学计算机系 
- - 工作年限：3年
- - 微博：[@Easy](http://weibo.com/easy) （如果没有技术相关内容，也可以不放）
- - 技术博客：http://old.ftqq.com ( 使用GitHub Host的Big较高  )
- - Github：http://github.com/easychen ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
-
- - 期望职位：PHP高级程序员，应用架构师
- - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
- - 期望城市：北京
+ - 尹文浩/男/1989
+ - 辽宁工程技术大学(2012届本科)/主修：信息管理与信息技术/辅修：法学
+ - 工作年限：6年
+ - 期望职位：JAVA高级程序员
+ - 期望薪资：税前月薪15k~20k
+ - 期望城市：大连
+ 
+# 工作经历
+## 大连雨琳信息技术有限公司 （ 2016年4月 ~ 至今 ）
 
 
 
-## Welcome to GitHub Pages
+### 项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
-You can use the [editor on GitHub](https://github.com/TonyYinQQ/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### GHI项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 某银行转账报文交换标准接口
+我在此项目负责了银行和证券公司之间专线连接接口实现，需采用TCP/IP长连接通信，建立两条通信链路，一条用于接受券商请求，一条用于发送请求，规定通信包格式，采用SM2对信息进行加密。主要技术涉及Socket/SM2加密/XML/线程池等技术。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+  
+## 北京富力通能源软件有限公司 （ 2012年2月 ~ 2016年4月 ）
 
-1. Numbered
-2. List
+### MNO项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### PQR项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 其他项目
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TonyYinQQ/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
+  
+ # 技能清单
+- 后台语言：JAVA/C/C++
+- 开源框架：Spring/Spring MVC/Struts2/Hiberante/Mybatis
+- 数据库相关：MySQL/Oracle/MongoDB/Redis/Memcache
+- 分布式&集群：Dubbo/Zookeeper/Niginx/Spring Boot
+- 前端语言：HTML/CSS/JavaScript
+- 前端框架：Bootstrap/VueJS/VuexJS/AngularJS/EChartJS
+-开发工具：Eclipse/Webstorm
+- 版本管理、文档和自动化部署工具：SVN/CVS/Git/Maven/Webpack/Postman/Project
+- 测试工具：JUnit/Postman
 
-### Support or Contact
+    
+---      
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
+      
+# 技能清单
+（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+以下均为我熟练使用的技能
+
+- Web开发：PHP/Hack/Node
+- Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
+- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
+- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
+- 数据库相关：MySQL/PgSQL/PDO/SQLite
+- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
+- 单元测试：PHPUnit/SimpleTest/Qunit
+- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+      
