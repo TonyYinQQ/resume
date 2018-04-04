@@ -24,7 +24,7 @@
 我在此项目主要负责卷宗查询，量刑计算模块样式调整等研发工作，系统后台使用Spring/SpringMVC/MyBatis和artery，前端使用VuexJS/Axios/Bootstrap，图表显示highcharts和echartJS。
 
 ### 江苏高院综合检索分析系统
-我在此项目负责后台检索服务代码编写和样式调整工作，该系统采用前后台分离，后台SpringBoot，使用ElasticSearch提供检索服务，前端使用AngularJS/Bootstrap/Jquery。
+我在此项目负责后台检索服务代码编写和样式调整工作，该系统采用前后台分离，后台SpringBoot，使用ElasticSearch提供检索服务，前端使用AngularJS/Bootstrap/Jquery等。
 
 ### 其他项目
 除以上项目外，还参与了企业站项目和政府项目。此外还负责公司新项目洽谈和新员工招聘和培训工作。
@@ -53,7 +53,6 @@
 - 前端框架：Bootstrap/VueJS/VuexJS/AngularJS/EChartJS
 - 开发工具：Eclipse/Webstorm/PowerDesigner
 - 版本管理、文档和自动化部署工具：SVN/CVS/Git/Maven/Webpack/Postman/Project
-- 测试工具：JUnit/Postman
 
 ---      
 # 致谢
