@@ -46,9 +46,9 @@
                 
 # 技能清单
 - 后台语言：JAVA/C/C++
-- 开源框架：Spring/Spring MVC/Struts2/Hiberante/Mybatis/POI/Activiti/Freemarker
+- 开源框架：Spring/SpringMVC/Struts2/Hiberante/Mybatis/POI/Activiti/Freemarker
 - 数据库相关：MySQL/Oracle/MongoDB/Redis/Memcache/PLSQL
-- 分布式&集群：Dubbo/Zookeeper/nginx/Spring Boot
+- 分布式&集群：Dubbo/Zookeeper/nginx/SpringBoot
 - 前端语言：HTML/CSS/JavaScript
 - 前端框架：Bootstrap/VueJS/VuexJS/AngularJS/EChartJS
 - 开发工具：Eclipse/Webstorm/PowerDesigner
