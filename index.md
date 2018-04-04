@@ -14,33 +14,35 @@
 # 工作经历
 ## 大连雨琳信息技术有限公司 （ 2016年4月 ~ 至今 ）
 
+### 长安汽车渝北工厂能源环境管理软件系统
+我在此项目中负责报表功能和环境监测和分析模块，项目主要技术为后台使用SpringMVC、Hiberante、Spring，报表使用itext生成，webService使用CXF框架，数据批量导出使用处理POI 前台使用easy-ui做界面， echartJS做图表，pdf.js实现在线浏览pdf合同文档。
+
 ### 某香港银行转账报文交标准接口
-我在此项目负责了HS银行和证券公司之间专线连接接口实现，需采用TCP/IP长连接通信，建立两条通信链路，一条用于接受券商请求，一条用于发送请求，规定通信包格式，采用SM2对信息进行加密。主要技术涉及Socket/SM2加密/XML/线程池等技术。
+我在此项目负责了某香港银行和证券公司之间专线连接接口实现，需采用TCP/IP长连接通信，建立两条通信链路，一条用于接受券商请求，一条用于发送请求，规定通信包格式，采用SM2对信息进行加密。主要技术涉及Socket/SM2加密/XML/线程池等技术。
 
 ### 贵州审判项目 
-我在此项目负责项目模块管理，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么VuexVue spring-mvc spring mybatis
+我在此项目负责项目模块管理，为什么VuexJS spring-mvc spring mybatis echartJS
 
 ### 法院档案管理系统项目 
 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。 spring mvc spring mybatis
 
-### 长安汽车渝北工厂能源环境管理软件系统
-我在此项目负责了哪些工作，项目主要技术是SpringMVC hiberante Spring cxf poi easyui echartjs
+
 
 
 ### 其他项目
-除以上项目，还参与了部分企业站开发，和一些政府项目。此外还负责公司新项目洽谈和新员工招聘和培训工作。
+除以上项目外，还参与了企业站项目和政府项目。此外还负责公司新项目洽谈和新员工招聘和培训工作。
 
 
 ## 北京富力通能源软件有限公司 （ 2012年2月 ~ 2016年4月 ）
 
 ### FLT工程项目管理平台
-我在此项目负责合同管理模块和进度管理模块，该项目核心框架为SpringMVC,Spring,Mybatis,通过activiti实现工作流，通过POI实现项目信息批量导入和下载，通过itext实现动态生成项目合同，pdf.js实现在线浏览pdf合同文档。
+我在此项目负责合同管理模块和进度管理模块，该项目核心框架为SpringMVC，Spring，Mybatis，通过activiti实现工作流，通过POI实现项目信息批量导入和下载，通过itext实现动态生成项目合同。
 
 ### 矿井人员定位考勤管理系统
-此项目中主要参与人员历史轨迹查询，人员出入井情况查询，人员考勤统计报表，设备状态监控等功能实现。项目核心框架为Spring,Struts2,Hiberante，数据库SQLServer，WebService框架是CXF,前端使用jQuery及共通插件,报表使用iReport等技术。
+此项目中主要参与人员历史轨迹查询，人员出入井情况查询，人员考勤统计报表，设备状态监控等功能实现。项目核心框架为Spring，Struts2，Hiberante，数据库MySQL，Redis做外部缓存，WebService框架是CXF，前端使用jQuery及共通插件，报表使用iReport等技术。
 
 ### 蒲白矿物局生产技术管理系统
-此项目中主要参与矿井储量信息、采掘队、采掘技术及装备信息管理。项目核心框架为Spring,Struts2,Hiberante，数据库SQLServer,前端使用jQuery及共通插件,通过POI实现项目信息批量导入和下载，ExtJS前台框架。
+此项目中主要参与矿井储量信息、采掘队、采掘技术及装备信息管理。项目核心框架为Spring，Struts2，Hiberante，数据库SQLServer,前端使用jQuery及共通插件,通过POI实现项目信息批量导入和下载，ExtJS前台框架。
  
 ### 其他项目
 除了参与以上项目之外，我参与研发的项目还有，综采工作面监控系统，矿井水处理系统，快速装车、计量监控系统等煤炭综合自动化系统集成项目和办公OA项目，接触了一些C++/QT/AndroidSDK/Linux/JNI技术。
@@ -48,7 +50,7 @@
 # 技能清单
 - 后台语言：JAVA/C/C++
 - 开源框架：Spring/Spring MVC/Struts2/Hiberante/Mybatis/POI/Activiti
-- 数据库相关：MySQL/Oracle/MongoDB/Redis/Memcache
+- 数据库相关：MySQL/Oracle/MongoDB/Redis/Memcache/PLSQL
 - 分布式&集群：Dubbo/Zookeeper/Niginx/Spring Boot
 - 前端语言：HTML/CSS/JavaScript
 - 前端框架：Bootstrap/VueJS/VuexJS/AngularJS/EChartJS
