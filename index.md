@@ -53,7 +53,7 @@
 - 前端框架：Bootstrap/VueJS/VuexJS/AngularJS/EChartJS
 - 开发工具：Eclipse/Webstorm/PowerDesigner/Navicat/SqlDeveloper
 - 版本管理、文档和自动化部署工具：SVN/CVS/Git/Maven/Webpack/Postman/Project
-- 其他技术：Linux内核驱动/Android原生开发/QT/ARM
+- 其他技术：Linux/AndroidSDK/QT/ARM
 
 ---      
 # 致谢
