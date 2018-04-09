@@ -7,7 +7,7 @@
  - 尹文浩/男/1989
  - 辽宁工程技术大学(2012届本科)/主修:信息管理与信息技术/辅修:法学
  - 工作年限：6年
- - 期望职位：JAVA高级程序员
+ - 期望职位：JAVA高级软件工程师
  - 期望薪资：税前月薪15k~20k
  - 期望城市：大连
  
@@ -47,12 +47,13 @@
 # 技能清单
 - 后台语言：JAVA/C/C++
 - 开源框架：Spring/SpringMVC/Struts2/Hiberante/Mybatis/POI/Activiti
-- 数据库相关：MySQL/Oracle/MongoDB/Redis/Memcache/PLSQL
+- 数据库相关：MySQL/Oracle/SQLServer/MongoDB/Redis/Lucene/Solr/ElasticSearch/Memcache/PLSQL
 - 分布式&集群：Dubbo/Zookeeper/nginx/SpringBoot
 - 前端语言：HTML/CSS/JavaScript
 - 前端框架：Bootstrap/VueJS/VuexJS/AngularJS/EChartJS
-- 开发工具：Eclipse/Webstorm/PowerDesigner
+- 开发工具：Eclipse/Webstorm/PowerDesigner/Navicat/SqlDeveloper
 - 版本管理、文档和自动化部署工具：SVN/CVS/Git/Maven/Webpack/Postman/Project
+- 其他技术：Linux内核驱动/Android原生开发/QT/ARM
 
 ---      
 # 致谢
