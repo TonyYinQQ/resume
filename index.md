@@ -48,7 +48,7 @@
 - 后台语言：JAVA/C/C++
 - 开源框架：Spring/SpringMVC/Struts2/Hiberante/Mybatis/POI/Activiti5/iText/ActiveMQ
 - 数据库相关：MySQL/Oracle/SQLServer/MongoDB/Redis/Lucene/Memcache/PLSQL
-- 分布式&集群：Dubbo/Zookeeper/nginx/SpringBoot
+- 分布式&集群：Dubbo/Zookeeper/Nginx/SpringBoot
 - 前端语言：HTML/CSS/JavaScript
 - 前端框架：Bootstrap/VueJS/VuexJS/AngularJS/EChartJS
 - 开发工具：Eclipse/Webstorm/PowerDesigner/Navicat/SqlDeveloper
