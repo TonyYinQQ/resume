@@ -52,7 +52,7 @@
 - 前端语言：HTML/CSS/JavaScript
 - 前端框架：Bootstrap/VueJS/VuexJS/AngularJS/EChartJS
 - 开发工具：Eclipse/Webstorm/PowerDesigner/Navicat/SqlDeveloper
-- 版本管理、文档和自动化部署工具：SVN/CVS/Git/Maven/Webpack/Postman/Project
+- 版本管理、文档和自动化部署工具：SVN/CVS/Git/Maven/Grandle/Webpack/Postman/Project/Docker
 - 其他技术：Linux/AndroidSDK/PHP/QT/ARM
 
 ---      
