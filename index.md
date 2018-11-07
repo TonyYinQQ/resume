@@ -17,7 +17,7 @@
 
 ### FINET基盤統合项目（2018年5月 ~ 2018年11月）
 
-我在此项目中主要商品信息管理，收发货，商户等信息管理模块的代码实现，项目主要技术为后台使用Spring-boot,doma,前台使用thymeleaf同时还参与详细设计书编写，单体测试式样编写，代码Review等工作。
+我在此项目中主要商品信息管理，收发货，商户等信息管理模块的代码实现，项目主要技术为Spring-boot,doma,thymeleaf,grandle,ajax,json,oracle同时还参与详细设计书编写，单体测试式样编写，及代码Review等工作。
 
 ## 大连雨琳信息技术有限公司 （ 2016年4月 ~ 2018年4月 ）
 
@@ -59,7 +59,7 @@
 - 前端语言：HTML/CSS/JavaScript
 - 前端框架：Bootstrap/VueJS/VuexJS/AngularJS/EChartJS
 - 开发工具：Eclipse/Webstorm/PowerDesigner/Navicat/SqlDeveloper/A5M2
-- 版本管理、文档和自动化部署工具：SVN/CVS/Git/Maven/Grandle/Webpack/Postman/Project/Docker
+- 版本管理、文档及自动化部署工具：SVN/CVS/Git/Maven/Grandle/Webpack/Postman/Project/Docker
 - 其他技术：Linux/AndroidSDK/PHP/QT/ARM
 
 ---      
