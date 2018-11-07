@@ -6,13 +6,20 @@
 # 个人信息
  - 尹文浩/男/1989
  - 辽宁工程技术大学(2012届本科)/主修:信息管理与信息技术/辅修:法学
- - 工作年限：5年
+ - 工作年限：6年
  - 期望职位：JAVA高级软件工程师
- - 期望薪资：税前月薪12k~15k
+ - 期望薪资：税前月薪15k+
  - 期望城市：大连 杭州 深圳
  
 # 工作经历
-## 大连雨琳信息技术有限公司 （ 2016年4月 ~ 至今 ）
+
+## 大连启动项信息技术有限公司 （2018年5月 ~ 至今）
+
+### FINET基盤統合项目（2018年5月 ~ 2018年11月）
+
+我在此项目中主要商品信息管理，收发货，商户等信息管理模块的代码实现，项目主要技术为后台使用Spring-boot,doma,前台使用thymeleaf同时还参与详细设计书编写，单体测试式样编写，代码Review等工作。
+
+## 大连雨琳信息技术有限公司 （ 2016年4月 ~ 2018年4月 ）
 
 ### 长安汽车渝北工厂能源环境管理软件系统
 我在此项目中负责报表功能和环境监测和分析模块，项目主要技术为后台使用SpringMVC、Hiberante、Spring，报表使用itext生成，webService使用CXF框架，数据批量导出使用处理POI，前台使用easy-ui做界面，echartJS做图表，pdf.js实现在线浏览pdf合同文档。
@@ -46,16 +53,16 @@
                 
 # 技能清单
 - 后台语言：JAVA/C/C++
-- 开源框架：Spring/SpringMVC/Struts2/Hiberante/Mybatis/POI/Activiti5/iText/ActiveMQ
+- 开源框架：Spring/SpringMVC/Spring-boot/Doma/Struts2/Hiberante/Mybatis/POI/Activiti5/iText/ActiveMQ
 - 数据库相关：MySQL/Oracle/SQLServer/MongoDB/Redis/Lucene/Memcache/PLSQL
-- 分布式&集群：Dubbo/Zookeeper/Nginx/SpringBoot
+- 分布式&集群：Dubbo/Zookeeper/Nginx
 - 前端语言：HTML/CSS/JavaScript
 - 前端框架：Bootstrap/VueJS/VuexJS/AngularJS/EChartJS
-- 开发工具：Eclipse/Webstorm/PowerDesigner/Navicat/SqlDeveloper
+- 开发工具：Eclipse/Webstorm/PowerDesigner/Navicat/SqlDeveloper/A5M2
 - 版本管理、文档和自动化部署工具：SVN/CVS/Git/Maven/Grandle/Webpack/Postman/Project/Docker
 - 其他技术：Linux/AndroidSDK/PHP/QT/ARM
 
 ---      
 # 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
+感谢您的阅读，期待与您共事。
       
