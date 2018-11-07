@@ -16,7 +16,7 @@
 ## 大连启动项信息技术有限公司 （2018年5月 ~ 至今）
 
 ### FINET基盤統合项目（2018年5月 ~ 2018年10月）
-我在此项目中主要商品信息，收发货，商户等信息管理模块的代码实现，项目主要技术为Spring-boot,doma,thymeleaf,grandle,ajax,json,oracle。同时还参与详细设计书编写，单体测试式样编写，及代码Review等工作。
+我在此项目中主要商品信息，收发货，商户等信息管理模块的代码实现，项目主要技术为SpringBoot,doma,thymeleaf,grandle,ajax,json,oracle。同时还参与详细设计书编写，单体测试式样编写，及代码Review等工作。
 
 ## 大连雨琳信息技术有限公司 （ 2016年4月 ~ 2018年4月 ）
 
@@ -52,7 +52,7 @@
                 
 # 技能清单
 - 后台语言：JAVA/C/C++
-- 开源框架：Spring/SpringMVC/Spring-boot/Doma/Struts2/Hiberante/Mybatis/POI/Activiti5/iText/ActiveMQ
+- 开源框架：Spring/SpringMVC/SpringBoot/Doma/Struts2/Hiberante/Mybatis/POI/Activiti5/iText/ActiveMQ
 - 数据库相关：MySQL/Oracle/SQLServer/MongoDB/Redis/Lucene/Memcache/PLSQL
 - 分布式&集群：Dubbo/Zookeeper/Nginx
 - 前端语言：HTML/CSS/JavaScript
