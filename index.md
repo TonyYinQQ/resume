@@ -6,14 +6,17 @@
 # 个人信息
  - 尹文浩/男/1989
  - 辽宁工程技术大学(2012届本科) / 主修:信息管理与信息技术 / 辅修:法学
- - 工作年限：6年
+ - 工作年限：8年
  - 期望职位：JAVA高级软件工程师
- - 期望薪资：税前月薪15k+
- - 期望城市：大连 杭州 深圳
+ - 期望薪资：税前月薪18k+
+ - 期望城市：大连
  
 # 工作经历
 
 ## 大连启动项信息技术有限公司 （ 2018年5月 ~ 至今 ）
+
+### UI(CURL->vue)代码移植项目
+此项目是将使用curl语言项目转换为vue前端代码SCURM项目，项目主要涉及技术为：gradle,mysql,mybatis,VBA,sonarqbue,AWS,vue,curl。主要负责核心程序框架搭建，分层，算法优化等工作，除此之外还负责任务分配，客户沟通等工作。
 
 ### FINET基盤統合项目
 在此项目中主要负责商品信息，收发货，商户等信息管理模块的代码实现，项目主要技术为SpringBoot,doma,thymeleaf,grandle,ajax,json,oracle。同时还参与详细设计书编写，单体测试式样编写，及代码Review等工作。
@@ -54,15 +57,15 @@
 除了参与以上项目之外，我参与研发的项目还有，综采工作面监控系统，矿井水处理系统，快速装车、计量监控系统等煤炭综合自动化系统集成项目和办公OA项目，接触了一些C++/QT/AndroidSDK/Linux/JNI技术。
                 
 # 技能清单
-- 后台语言：JAVA/C/C++
+- 基础语言：JAVA/C/C++
 - 开源框架：Spring/SpringMVC/SpringBoot/Doma/Struts2/Hiberante/Mybatis/POI/Activiti5/iText/ActiveMQ
 - 数据库相关：MySQL/Oracle/SQLServer/MongoDB/Redis/Lucene/Memcache/PLSQL
-- 分布式&集群：Dubbo/Zookeeper/Nginx
 - 前端语言：HTML/CSS/JavaScript
 - 前端框架：Bootstrap/VueJS/VuexJS/AngularJS/EChartJS
 - 开发工具：Eclipse/Webstorm/PowerDesigner/Navicat/SqlDeveloper/A5M2
-- 版本管理、文档及自动化部署工具：SVN/CVS/Git/Maven/Grandle/Webpack/Postman/Project/Docker
-- 其他技术：Linux/AndroidSDK/PHP/QT/ARM
+- 版本管理、文档及自动化部署工具：SVN/CVS/Git/Maven/Grandle/Webpack/Postman/Project/Docker/sonarqube
+- 分布式&集群：Dubbo/Zookeeper/Nginx/k8
+- 其他技术：Linux/AndroidSDK/PHP/QT/ARM/perform/VBA
 
 ---      
 # 致谢
