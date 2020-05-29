@@ -10,7 +10,12 @@
  - 期望职位：JAVA高级软件工程师
  - 期望薪资：税前月薪18k+
  - 期望城市：大连
- 
+
+# 认证证书
+- PMP
+- 英语6级
+- 日语三级相当
+
 # 工作经历
 
 ## 大连启动项信息技术有限公司 （ 2018年5月 ~ 至今 ）
@@ -66,11 +71,6 @@
 - 版本管理、文档及自动化部署工具：SVN/CVS/Git/Maven/Grandle/Webpack/Postman/Project/Docker/sonarqube
 - 分布式&集群：Dubbo/Zookeeper/Nginx/k8
 - 其他技术：Linux/AndroidSDK/PHP/QT/ARM/perform/VBA
-
-# 认证证书
-- PMP
-- 英语6级
-- 日语三级相当
 
 ---      
 # 致谢
