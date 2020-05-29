@@ -67,6 +67,11 @@
 - 分布式&集群：Dubbo/Zookeeper/Nginx/k8
 - 其他技术：Linux/AndroidSDK/PHP/QT/ARM/perform/VBA
 
+# 认证证书
+- PMP
+- 英语6级
+- 日语三级相当
+
 ---      
 # 致谢
 感谢您的阅读，期待与您共事。
