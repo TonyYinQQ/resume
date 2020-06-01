@@ -19,10 +19,10 @@
 
 ## 大连启动项信息技术有限公司 （ 2018年5月 ~ 至今 ）
 
-### UI(CURL->VUE)代码移植项目
+### 代码移植工具研发
 此项目是将curl语言为客户端的项目移植为以vue前端的SCURM项目，项目主要涉及技术为：gradle,mysql,mybatis,VBA,sonarqbue,AWS,vue,curl。主要负责核心程序框架搭建，分层，算法优化等工作，除此之外还负责任务分配，客户沟通等工作。
 
-### FINET基盤統合项目
+### FINET电商基础平台研发
 在此项目中主要负责信息管理模块的代码实现，项目主要技术为SpringBoot,doma,thymeleaf,grandle,ajax,json,oracle。同时还参与详细设计书编写，单体测试式样编写，及代码Review等工作。
 
 ### 其他
