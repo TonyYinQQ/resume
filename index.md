@@ -57,13 +57,12 @@
 # 技能清单
 - 基础语言：JAVA/C/C++
 - 开源框架：Spring/SpringMVC/SpringBoot/Struts2/Hiberante/Mybatis/Doma/POI/Activiti5/iText/ActiveMQ
-- 数据库相关：MySQL/Oracle/SQLServer/MongoDB/Redis/Lucene/Memcache/Ehcached/PLSQL
+- 数据库相关：MySQL/Oracle/SQLServer/MongoDB/Redis/ElasticSearch/Memcache/Ehcached/PLSQL
 - 前端语言：HTML/CSS/JavaScript
 - 前端框架：Bootstrap/VueJS/VuexJS/AngularJS/EChartJS/easyUI
 - 开发工具：Eclipse/Webstorm/PowerDesigner/Navicat/SqlDeveloper/A5M2
-- 版本管理、文档及自动化部署工具：SVN/CVS/Git/Maven/Grandle/Webpack/Postman/Project/Docker/Sonarqube
-- 分布式&集群：Dubbo/Zookeeper/Nginx/k8
-- 其他技术：Linux/AndroidSDK/PHP/QT/ARM/perform/VBA
+- 版本管理及自动化部署工具：SVN/CVS/Git/Maven/Gradle/Postman/Sonarqube/Nexus/Jenkins
+- 其他技术：Nginx/Docker/k8s/Linux/AndroidSDK/PHP/QT/ARM/Perform/VBA
 
 ---      
 # 致谢
